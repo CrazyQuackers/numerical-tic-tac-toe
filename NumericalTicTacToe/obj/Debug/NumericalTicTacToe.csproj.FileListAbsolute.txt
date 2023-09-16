@@ -1,0 +1,10 @@
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\NumericalTicTacToe\NumericalTicTacToe\bin\Debug\NumericalTicTacToe.exe.config
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\NumericalTicTacToe\NumericalTicTacToe\bin\Debug\NumericalTicTacToe.exe
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\NumericalTicTacToe\NumericalTicTacToe\bin\Debug\NumericalTicTacToe.pdb
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\NumericalTicTacToe\NumericalTicTacToe\obj\Debug\NumericalTicTacToe.csprojAssemblyReference.cache
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\NumericalTicTacToe\NumericalTicTacToe\obj\Debug\NumericalTicTacToe.Form1.resources
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\NumericalTicTacToe\NumericalTicTacToe\obj\Debug\NumericalTicTacToe.Properties.Resources.resources
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\NumericalTicTacToe\NumericalTicTacToe\obj\Debug\NumericalTicTacToe.csproj.GenerateResource.cache
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\NumericalTicTacToe\NumericalTicTacToe\obj\Debug\NumericalTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\NumericalTicTacToe\NumericalTicTacToe\obj\Debug\NumericalTicTacToe.exe
+C:\Users\10User\Documents\Visual Studio 2019\Mischakim\NumericalTicTacToe\NumericalTicTacToe\obj\Debug\NumericalTicTacToe.pdb
